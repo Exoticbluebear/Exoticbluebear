@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+ExoticBlueBear may sounds bit weird but hey it sounds cool also I make cool stuff too, logically and visually. 
+
+check out some of my web work - 
+
+❌⭕️ -
+🛻💲 -
+⌨️🖨️ -
+
+I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
 <!--
 **Exoticbluebear/Exoticbluebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
