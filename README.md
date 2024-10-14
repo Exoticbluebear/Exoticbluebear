@@ -4,9 +4,9 @@ ExoticBlueBear may sounds bit weird but hey it sounds cool also I make cool stuf
 
 check out some of my web work - 
 
-❌⭕️ -
-🛻💲 -
-⌨️🖨️ -
+❌⭕️ - https://twistedtictactoe.netlify.app/
+🛻💲 - https://canadaautoloancal.netlify.app/
+⌨️🐲 - https://how-to-train-your-typer.netlify.app
 
 I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
 <!--
