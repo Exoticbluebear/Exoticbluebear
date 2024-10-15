@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-ExoticBlueBear may sounds bit weird but hey it sounds cool also I make cool stuff too, logically and visually. 
+I make cool stuff, logically and visually. 
 
 check out some of my web work - 
 
