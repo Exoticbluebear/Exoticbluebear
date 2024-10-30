@@ -12,7 +12,61 @@ check out some of my web work -
 
 I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
 
-<div>here</div>
+<span>
+<article>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+</article>
+
+<article class="what">
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+</article>
+</span>
 
 <!--
 **Exoticbluebear/Exoticbluebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
