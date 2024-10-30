@@ -6,7 +6,7 @@ check out some of my web work -
 
 ❌⭕️ - https://twistedtictactoe.netlify.app/
 
-🛻💲 - https://canadaautoloancal.netlify.app/
+🛻💲 - https://canadaautoloancal.netlify.app/ - currently being modified for demonstration purposes
 
 ⌨️🐲 - https://how-to-train-your-typer.netlify.app
 
