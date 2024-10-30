@@ -12,7 +12,9 @@ check out some of my web work -
 
 I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
 
-<span body { margin: 0; background: #53917E; }
+<span>
+  <style>
+    body { margin: 0; background: #53917E; }
 
 span {
   position: absolute;
@@ -118,7 +120,8 @@ div:nth-child(4) {
   100% {
     transform: translateX(0);
   }
-}>
+}
+  </style>
 <article>
 <figure>
 <div></div>
