@@ -11,6 +11,9 @@ check out some of my web work -
 ⌨️🐲 - https://how-to-train-your-typer.netlify.app
 
 I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
+
+<div>here</div>
+
 <!--
 **Exoticbluebear/Exoticbluebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
