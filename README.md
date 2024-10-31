@@ -12,7 +12,7 @@ check out some of my web work -
 
 I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
 
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 <!--
 **Exoticbluebear/Exoticbluebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
