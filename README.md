@@ -12,7 +12,9 @@ check out some of my web work -
 
 I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Exoticbluebear/Exoticbluebear/blob/c525209f0b1cf0527b45c4a396033bdec88911a8/stoic-philosophy-marcus-aurelius-epictetus-seneca-diogenes-socrates.jpg)
+
+
 <!--
 **Exoticbluebear/Exoticbluebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
