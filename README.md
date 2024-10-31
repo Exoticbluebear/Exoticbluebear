@@ -12,7 +12,7 @@ check out some of my web work -
 
 I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
 
-![alt text](https://github.com/Exoticbluebear/Exoticbluebear/blob/63dcf0fd779e23836a9f4899e4ec12db32fc30ae/Stoicism.jpg)
+![alt text](https://github.com/Exoticbluebear/Exoticbluebear/blob/b467d4fafa6db230742544c91a7d695f0431f6df/monumental-resilience-majestic-stoic-statue-wearing-crown-gracefully-white-background_983420-200632.jpg.avif)
 
 
 <!--
