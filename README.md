@@ -4,7 +4,7 @@ I make cool stuff, logically and visually.
 
 check out some of my web work - 
 
-❌⭕️ - https://twistedtictactoe.netlify.app/
+❌⭕️ - https://twistedtictactoe-by-kushan-amugoda.netlify.app/
 
 🛻💲 - https://canadaautoloancal.netlify.app/ - currently being modified for demonstration purposes
 
