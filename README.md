@@ -13,8 +13,9 @@ check out some of my web work -
 I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
 
 <span>
-  <style>
-    body { margin: 0; background: #53917E; }
+  <head>
+    <style>
+      body { margin: 0; background: #53917E; }
 
 span {
   position: absolute;
@@ -121,7 +122,9 @@ div:nth-child(4) {
     transform: translateX(0);
   }
 }
-  </style>
+    </style>
+  </head>
+ 
 <article>
 <figure>
 <div></div>
