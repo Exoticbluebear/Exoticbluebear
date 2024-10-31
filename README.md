@@ -10,9 +10,9 @@ check out some of my web work -
 
 ⌨️🐲 - https://how-to-train-your-typer.netlify.app
 
-I'm looking for an opportunity to use my creativity and logical thinking. STOIC -
+I'm looking for an opportunity to use my creativity and logical thinking. - STOIC -
 
-![alt text](https://github.com/Exoticbluebear/Exoticbluebear/blob/b467d4fafa6db230742544c91a7d695f0431f6df/monumental-resilience-majestic-stoic-statue-wearing-crown-gracefully-white-background_983420-200632.jpg.avif)
+
 
 
 <!--
