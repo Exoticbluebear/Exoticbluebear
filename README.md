@@ -10,7 +10,7 @@ check out some of my web work -
 
 ⌨️🐲 - https://how-to-train-your-typer.netlify.app
 
-I'm looking for an opportunity to use my creativity and logical thinking. - STOIC -
+ - STOIC -
 
 
 
