@@ -10,7 +10,7 @@ check out some of my web work -
 
 ⌨️🐲 - https://how-to-train-your-typer.netlify.app
 
- - STOIC -
+    - STOIC -
 
 
 
