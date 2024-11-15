@@ -4,11 +4,12 @@ I make cool stuff, logically and visually.
 
 check out some of my web work - 
 
+⌨️🐲 - https://how-to-train-your-typer.netlify.app
+
 ❌⭕️ - https://twistedtictactoe-by-kushan-amugoda.netlify.app/
 
 🛻💲 - https://canadaautoloancal.netlify.app/ 
 
-⌨️🐲 - https://how-to-train-your-typer.netlify.app
 
     - STOIC -
 
